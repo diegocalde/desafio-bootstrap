@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* aqui inicia style de index con bootstrap*/
+.encabezado{
+    margin: 20px;
+    padding: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+}
+
+h1{
+    color: black;
+    font-family: 'Play', sans-serif;
+    
+}
+h2{
+    color: black;
+    text-align: center;
+    font-family:'Playfair Display SC', serif;
+}
+h3{
+    color: black;
+    font-family: 'Playfair Display SC', serif ;
+    margin-left: 400px;
+    text-decoration: underline;
+
+}
+body{
+    background-image: url(../imagenes/concrete_wall.png);
+}
+
+.contenedor{
+    width: 90%;
+    margin: 20px;
+    padding: 30px;
+}
+
+.contenedor .texto{
+    color: black ;
+    font-family: 'Playfair Display SC', serif; 
+    width: 1000px;
+    margin-right: 100px;
+    margin-left: 150px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color:darkgray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+   
+}
+/* aqui finales style de index principal*/
+
+
+.formulario{
+    margin: 50px;
+}
+span{
+    color:red;
+
+}
+ 
